@@ -1,0 +1,14 @@
+flask
+flask-restx
+
+flask-sqlalchemy
+flask-cors
+flask-migrate
+flask-firebase-admin
+marshmallow_sqlalchemy
+
+PyYAML
+PyMySQL
+PyJWT
+
+datetime
